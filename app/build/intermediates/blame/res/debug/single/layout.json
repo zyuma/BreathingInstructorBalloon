@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_results_525.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_results_525.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_start.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_start.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/history_row.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/history_row.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_record.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_record.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_setup.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_setup.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_breathing_monitor.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_breathing_monitor.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_results_bpm.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_results_bpm.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_history.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/layout/fragment_instruction.xml",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/layout/fragment_instruction.xml"
+    }
+]

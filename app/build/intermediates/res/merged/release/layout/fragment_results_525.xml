@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue1" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dp"
+        android:layout_marginTop="17dp"
+        android:text="Result"
+        android:textSize="32sp" />
+    
+    <TextView
+        android:id="@+id/goodjob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/title"
+        android:text="You completed the exercise! Good job!"
+        android:textSize="16sp" />
+
+    <RelativeLayout 
+        android:id="@+id/improvement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/goodjob"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_margin="10dp"
+            android:text="Rate how much better your feel than before:"
+            android:textSize="16sp" />
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	       	android:layout_height="wrap_content"
+	       	android:layout_below="@+id/desc"
+	       	android:orientation="horizontal" >
+	           <SeekBar
+			        android:id="@+id/bar"
+			        android:layout_width="280dp"
+			        android:layout_height="wrap_content"
+			        android:layout_margin="5dp"
+			        android:layout_weight="1" />
+	           <TextView
+	               android:id="@+id/rating"
+	               android:layout_width="wrap_content"
+	               android:layout_height="wrap_content"
+	               android:layout_margin="5dp"
+	               android:layout_weight="1"
+	               android:textSize="16sp" />
+		</LinearLayout>
+	</RelativeLayout>
+
+    <Button
+        android:id="@+id/nextbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/buttonbg"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:text="Done" />
+
+</RelativeLayout>

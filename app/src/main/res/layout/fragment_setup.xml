@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue1" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dp"
+        android:layout_marginTop="17dp"
+        android:text="Setup"
+        android:textSize="32sp" />
+
+    <RelativeLayout
+        android:id="@+id/d"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_margin="20dp" >
+
+        <TextView
+            android:id="@+id/duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="How much time do you have?"
+            android:textSize="16dp" />
+
+        <Spinner
+            android:id="@+id/duration_spinner"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/duration"
+            android:layout_margin="5dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/exercise_option"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/d"
+        android:layout_margin="20dp" >
+
+        <TextView
+            android:id="@+id/exercise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Which exercise do you want to do?"
+            android:textSize="16dp" />
+
+        <Spinner
+            android:id="@+id/exercise_spinner"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/exercise"
+            android:layout_margin="5dp" />
+    </RelativeLayout>
+    
+    <TextView
+            android:id="@+id/desc525"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/exercise_option"
+            android:layout_margin="25dp"
+            android:text="5 seconds inhale, 2 seconds hold, 5 seconds exhale"
+            android:textSize="16dp" />
+    
+    <RelativeLayout
+        android:id="@+id/b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/exercise_option"
+        android:layout_margin="20dp" >
+
+        <TextView
+            android:id="@+id/previous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Last time: "
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/bpm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/previous"
+            android:layout_margin="5dp"
+            android:text="Let&apos;s aim for:"
+            android:textSize="16dp" />
+
+        <Spinner
+            android:id="@+id/BPM_spinner"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bpm"
+            android:layout_margin="5dp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/nextbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/buttonbg"
+        android:padding="10dp"
+        android:text="Start"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+</RelativeLayout>

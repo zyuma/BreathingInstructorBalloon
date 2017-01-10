@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BPM_array">
+        <item>10 BPM</item>
+        <item>9 BPM</item>
+        <item>8 BPM</item>
+        <item>7 BPM</item>
+        <item>6 BPM</item>
+        <item>5 BPM</item>
+        <item>4 BPM</item>
+        <item>3 BPM</item>
+    </string-array>
+    <string-array name="duration_array">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute (Recommended)</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="blue1">#7f5fbdce</color>
+    <color name="blue2">#37b6ce</color>
+    <color name="blue3">#04859d</color>
+    <color name="blue3op">#7f04859d</color>
+    <color name="blue4">#206876</color>
+    <color name="blue5">#015666</color>
+    <color name="dark_blue">#0099CC</color>
+    <color name="dark_green">#669900</color>
+    <color name="dark_orange">#FF8800</color>
+    <color name="dark_purple">#9933CC</color>
+    <color name="dark_red">#CC0000</color>
+    <color name="light_blue">#33B5E5</color>
+    <color name="light_green">#99CC00</color>
+    <color name="light_orange">#FFBB33</color>
+    <color name="light_purple">#AA66CC</color>
+    <color name="light_red">#FF4444</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">BreathingInstructorBalloon</string>
+    <string name="desc">Feeling the crave?\n\nLets try deep controlled breathing!\n\nThis exercise will help you fight the crave to smoke through relaxation.\n\n</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="instr1">Kill the crave for smoke with <b>deep breathing</b>! </string>
+    <string name="instr2">Aim for <b>low Breaths Per Minute (BPM)</b>. 3-5 BPM is very good.</string>
+    <string name="instr3"><b>Straighten</b> your back and use your <b>diaphragm</b> to breathe.</string>
+    <string name="instr4">Inhale through your nose and exhale through your mouth.</string>
+    <string name="instr5">Bring your mouth <b>close to the microphone</b> when breathing (within 10cm).</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

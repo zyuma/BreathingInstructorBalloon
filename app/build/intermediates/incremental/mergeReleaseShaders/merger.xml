@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/release/shaders"/></dataSet></merger>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/balloon_outline.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/balloon_outline.png"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/balloon_mouth.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/balloon_mouth.png"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/balloon.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/balloon.png"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/inhale.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/inhale.png"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/exhale.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/exhale.png"
+    },
+    {
+        "merged": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/res/merged/debug/drawable-hdpi/balloon_body.png",
+        "source": "/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/src/main/res/drawable-hdpi/balloon_body.png"
+    }
+]

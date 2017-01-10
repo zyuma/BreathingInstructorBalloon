@@ -1,0 +1,7 @@
+#Sun Jan 08 23:33:58 EST 2017
+base.0=/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_392bda16716d5b8fe1b9190de1ea09cbd014886b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68fc12b6a16527aebac7b2386654ecc9f1c68171/classes.dex
+base.1=/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68fc12b6a16527aebac7b2386654ecc9f1c68171
+file.0=/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_392bda16716d5b8fe1b9190de1ea09cbd014886b/classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e5688939ed1bbe07802f8c6398adda030fff2a1">
+        <dex dex="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68fc12b6a16527aebac7b2386654ecc9f1c68171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/libs/achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.1.0_14c4fb55da8a4f32842bd7f5fadb1ec523f67d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/libs/achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/pre-dexed/release/achartengine-1.1.0_14c4fb55da8a4f32842bd7f5fadb1ec523f67d02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a83848d5744c4c666d2c19cb81477c4181b186de">
+        <dex dex="/Users/yuma/Development/AndroidStudioProjects/BreathingInstructorBalloon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_392bda16716d5b8fe1b9190de1ea09cbd014886b/classes.dex" />
+    </item>
+
+</items>

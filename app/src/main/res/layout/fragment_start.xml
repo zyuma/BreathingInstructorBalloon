@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:background="@color/blue1" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:text="Breathing\nInstructor"
+            android:textColor="@color/black"
+            android:textSize="64sp"
+            android:gravity="center" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:layout_margin="20dp" >
+
+            <Button
+                android:id="@+id/nextbutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                
+                android:layout_margin="10dp"
+                android:background="@drawable/buttonbg"
+                android:padding="10dp"
+                android:text="Start"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/historybutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/nextbutton"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttonbg"
+                android:padding="10dp"
+                android:text="History"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/instructionbutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/historybutton"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttonbg"
+                android:padding="10dp"
+                android:text="Instruction"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/exitbutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/instructionbutton"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttonbg"
+                android:padding="10dp"
+                android:text="Exit"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
